@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Data Flow
 
 Developer → GitHub → Jenkins → DockerHub → AWS EC2/ECS → Monitoring
@@ -20,3 +21,6 @@ Terraform + AWS handle infrastructure setup.
 Ansible or Kubernetes manage deployment.
 
 Prometheus/Grafana handle monitoring.
+=======
+
+>>>>>>> 897a6b46feff039ea757c5815bb48811d5ec9a0b
